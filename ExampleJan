@@ -1,5 +1,5 @@
-getgenv().scripttitle = "awaken-like-femboys"
-getgenv().FolderName = "testerhub"
+getgenv().scripttitle = "awakenkn-like-femboys"
+getgenv().FolderName = "Femboyawakenkn"
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Awakenchan/jan/main/JanModifiedSource'))()
 -- [Legit Tab UI] ------------------------------------------------------------------------------------------------------------------------------------------------------------
 local LegitTab = library:AddTab("Legit"); 
